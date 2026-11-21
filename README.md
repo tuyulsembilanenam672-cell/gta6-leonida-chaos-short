@@ -1,6 +1,10 @@
+[![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/tuyulsembilanenam672-cell/gta6-leonida-chaos-short/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/tuyulsembilanenam672-cell/gta6-leonida-chaos-short/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+
 # GTA 6 Leonida Is Pure Chaos — gta6-clipper-01
 
-Entry for make.fun bounty "Clip GTA 6 for the most YouTube views" ($500, top 20
+Entry for the [make.fun bounty "Clip GTA 6 for the most YouTube views"](https://make.fun/bounty/gta6-clipper-01) ($500, top 20
 share the pot). The clip is a 44-second vertical Short cut from Rockstar's
 Grand Theft Auto VI Trailer 2: it opens on the trailer's police-car explosion,
 runs the climax montage (car chases, airboat, Vice City nights), then ends on
